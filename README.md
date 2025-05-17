@@ -1,5 +1,5 @@
-<h1 align="center">Hello, I'm FREDERICK SOLOMON (Dev. Republican)</h1>
-<h3 align="center">I am create elegant and equisite Web Applications, with various languages, frameworks and technologies. I am proficient in languages,Like HTMl, CSS, Javascript; and Frameworks/Libraries Like React,Tailwind, Express, Next.js...</h3>
+<h1 align="center">Hello, I'm FREDERICK SOLOMON (Wayne)</h1>
+<h3 align="center">I am create elegant and equisite Web Applications, with various languages, frameworks and technologies. I am proficient in languages,Like HTMl, CSS, Javascript, Flutter, GoLang; and Frameworks/Libraries Like React,Tailwind, Express, Next.js...</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=republican138&label=Profile%20views&color=0e75b6&style=flat" alt="republican138" /> </p>
 
