@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm FREDERICK SOLOMON (Wayne)</h1>
-<h3 align="center">I am create elegant and equisite Web Applications, with various languages, frameworks and technologies. I am proficient in languages,Like HTMl, CSS, Javascript, Flutter, GoLang; and Frameworks/Libraries Like React,Tailwind, Express, Next.js...</h3>
+<h3 align="center">I am create exquisite Mobile Applications, with various languages, frameworks and technologies. I am proficient in languages,Like Flutter, Rust; and Web Frameworks/Libraries Like React,Tailwind, Express, Next.js...</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=republican138&label=Profile%20views&color=0e75b6&style=flat" alt="republican138" /> </p>
 
@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/solomonode144" target="blank"><img src="https://img.shields.io/twitter/follow/solomonode144?logo=twitter&style=for-the-badge" alt="solomonode144" /></a> </p>
 
-- 🔭 I’m currently working on **A Social Media Application**
+- 🔭 I’m currently working on **A Mobile marketing Application**
 
-- 🌱 I’m currently learning **Next.js and Flutter @Udemy**
+- 🌱 I’m currently learning **Rust and Flutter @Udemy**
 
 - 👯 I’m looking to collaborate on **A Mobile trading App**
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **sodeh138@gmail.com**
 
-- ⚡ Fun fact **I love watching Anime, and i play Chess**
+- ⚡ Fun fact **I love watching Anime, and i an amatuer boxer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
